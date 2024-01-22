@@ -13,3 +13,11 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+
+/* Utility Classes */
+
+.container {
+  max-width: 60rem;
+
+  margin: 0 auto;
+}
